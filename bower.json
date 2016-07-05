@@ -1,0 +1,29 @@
+{
+  "name": "chai-mocha-init",
+  "description": "My first chai mocha setup",
+  "main": "index.js",
+  "authors": [
+    "Ronald Tagra"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "unit",
+    "test",
+    "chai",
+    "mocha"
+  ],
+  "homepage": "https://github.com/rtagra/chai-mocha-init",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "chai": "^3.5.0",
+    "jquery": "^3.0.0",
+    "mocha": "^2.5.3"
+  }
+}
