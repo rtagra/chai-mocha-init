@@ -1,0 +1,29 @@
+{
+  "name": "chai-mocha-init",
+  "version": "1.0.0",
+  "description": "My first chai mocha setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtagra/chai-mocha-init.git"
+  },
+  "keywords": [
+    "unit",
+    "test",
+    "chai",
+    "mocha"
+  ],
+  "author": "Ronald Tagra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rtagra/chai-mocha-init/issues"
+  },
+  "homepage": "https://github.com/rtagra/chai-mocha-init#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
